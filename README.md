@@ -30,6 +30,12 @@ A business can lose a significant amount of assets due to fraud. At an extreme l
 
 
 
+![a](https://github.com/brdx88/fraudulent-transaction-detector/blob/main/1.png)
+![b](https://github.com/brdx88/fraudulent-transaction-detector/blob/main/2.png)
+![c](https://github.com/brdx88/fraudulent-transaction-detector/blob/main/3.png)
+![d](https://github.com/brdx88/fraudulent-transaction-detector/blob/main/4.png)
+
+
 
 # Conclusions
 1. The Fraudulent in this dataset is obviously not balance 99% : 1%, but at least we know that most transactions are safe. However maybe it's only 1% transactions which fraud, but when it comes to 'amount', there are \$1,467,967 are fraud (89.2%) and \$178,197.0 are not fraud (10.8%).
