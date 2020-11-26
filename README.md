@@ -1,5 +1,7 @@
 # Fraudulent Transaction Detector
 
+![a](https://github.com/brdx88/fraudulent-transaction-detector/blob/main/transactionfraud.jpeg)
+
 Fraud has become a scandal in financial reporting. Evidently, many large companies
 were dragged into fraud cases such as SK Global, Vivendi, Enron, Parmalat, Adelphia, Cendant,
 WorldCom, and Royal Ahold (Albrecht, et al., 2008). Companies are caught up in the situation of
