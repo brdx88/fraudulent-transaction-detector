@@ -77,3 +77,6 @@ This `isFlaggedFraud` feature is so irrelevant for us to see which transaction i
 # Recommendations
 1. Don't use `isFlaggedFraud` again.
 2. Otherwise, use our Machine Learning model with the best Recall metrics is 0.99 of 1.00. Our model can predict whether the transaction is fraud or not with minimum error.
+
+
+#### For more insights, please visit the notebook [here](https://github.com/brdx88/fraudulent-transaction-detector/blob/main/financial_fraud.ipynb).
